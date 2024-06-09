@@ -46,19 +46,17 @@
 
     ![路径显示](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609112440188-171790348117410.png)
 
-    ![image-20240609112440188](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609112440188-171790348117410.png)
-
 - **控制台**: 显示文件系统操作的结果和信息。
 
-    ![image-20240609112429459](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609112429459-17179034704319.png)
+    ![控制台显示](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609112429459-17179034704319.png)
 
 - **文件树视图**: 显示文件系统的目录结构。
 
-    ![image-20240609112409218](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609112409218-17179034503057.png)
+    ![文件树视图](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609112409218-17179034503057.png)
 
 - **文件内容**: 显示和编辑当前打开文件的内容。
 
-    ![image-20240609112510390](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609112510390-171790351147011.png)
+    ![文件内容](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609112510390-171790351147011.png)
 
 - **操作按钮**:
 
@@ -71,7 +69,7 @@
 
 3. 控制台显示创建结果。
 
-   ![image-20240609111944943](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609111944943-17179031865051.png)
+   ![创建文件](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609111944943-17179031865051.png)
 
 ### 打开文件
 1. 点击“打开文件”按钮。
@@ -80,7 +78,7 @@
 
 3. 如果文件成功打开，其内容会显示在右侧的文本编辑框中。
 
-   ![image-20240609112006017](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609112006017-17179032070462.png)
+   ![打开文件](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609112006017-17179032070462.png)
 
 ### 保存文件
 1. 在文本编辑框中输入或修改文件内容。
@@ -89,7 +87,7 @@
 
 3. 控制台显示保存结果。
 
-   ![image-20240609112034046](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609112034046-17179032351383.png)
+   ![保存文件](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609112034046-17179032351383.png)
 
 ### 关闭文件
 1. 点击“关闭文件”按钮。
@@ -107,7 +105,7 @@
 
 3. 控制台显示创建结果。
 
-   ![image-20240609112110319](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609112110319-17179032714054.png)
+   ![创建文件](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609112110319-17179032714054.png)
 
 ### 删除目录
 1. 点击“删除目录”按钮。
@@ -121,7 +119,7 @@
 
 3. 控制台显示更改结果，路径显示更新。
 
-   ![image-20240609112129501](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609112129501-17179032916175-17179032994906.png)
+   ![定位目录](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609112129501-17179032916175-17179032994906.png)
 
 ### 返回上一级
 1. 点击“返回上一级”按钮。
