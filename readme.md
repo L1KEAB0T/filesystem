@@ -44,6 +44,8 @@
 
 - **路径显示**: 显示当前目录路径。
 
+    ![路径显示](https://github.com/L1KEAB0T/filesystem/blob/master/images/image-20240609112440188-171790348117410.png)
+
     ![image-20240609112440188](D:\大学学习\大二下\操作系统\filesystem\images\image-20240609112440188-171790348117410.png)
 
 - **控制台**: 显示文件系统操作的结果和信息。
